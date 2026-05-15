@@ -3,7 +3,7 @@
 This repository contains the backend Node.js / Express REST API for the **CreditSea Loan Management System (LMS)**. It powers the Business Rule Engine (BRE), handles role-based access control (RBAC), and manages secure data storage via MongoDB.
 
 ## 🚀 Live API
-* **Base URL:** [Insert your Render URL here]
+* **Base URL:** https://creditsea-api-wtad.onrender.com
 
 ## ✨ Key Features
 * **Business Rule Engine (BRE):** Automated logic to evaluate loan applications based on applicant income and employment data.
@@ -23,7 +23,7 @@ This repository contains the backend Node.js / Express REST API for the **Credit
 
 ### 1. Clone & Install
 ```bash
-git clone https://github.com/yourusername/creditsea-backend.git
+git clone https://github.com/554Tejas/creditsea-backend.git
 cd creditsea-backend
 npm install
 ```
