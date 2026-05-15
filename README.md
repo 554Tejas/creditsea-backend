@@ -32,7 +32,7 @@ npm install
 Create a `.env` file in the root directory and add the following:
 ```env
 PORT=5000
-MONGO_URI=your_mongodb_atlas_connection_string
+MONGO_URI=mongodb+srv://<username>:<password>@cluster0.xxxxx.mongodb.net/lms_db?retryWrites=true&w=majority
 JWT_SECRET=super_secret_jwt_key_change_in_production
 JWT_EXPIRES_IN=1d
 FRONTEND_URL=http://localhost:3000
